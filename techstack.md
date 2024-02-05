@@ -50,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareiodev/ad_chatbot-ui](https://github.com/stackshareiodev/ad_chatbot-ui)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|37<br/>Tools used|01/31/24 <br/>Report generated|
+|37<br/>Tools used|02/05/24 <br/>Report generated|
 |------|------|
 </div>
 
